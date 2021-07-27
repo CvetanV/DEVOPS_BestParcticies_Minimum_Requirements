@@ -1,1 +1,2 @@
-
+def hi()
+  return "Hi!"
