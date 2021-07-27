@@ -1,0 +1,1 @@
+# DEVOPS_BestParcticies_Minimum_Requirements
