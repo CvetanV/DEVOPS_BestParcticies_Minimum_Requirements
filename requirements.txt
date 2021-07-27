@@ -1,0 +1,5 @@
+pylint ## for linting of the code
+pytest ## testing lib
+click
+black ## formating lib
+pytest-cov ## how much of the code got covered
